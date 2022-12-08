@@ -20,3 +20,4 @@ The cause: in every cycle i make a new text to show the score.
 I tried to destroy the texts but i never succeed.
 
 You can play with it here: http://strykerkkd.github.io/SpaceInvaders/
+I edited main js
